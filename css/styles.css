@@ -12,11 +12,6 @@
     top: 0px;
     right: 0px;
   }
-
-  block {
-    position: relative;
-    margin: 10px;
-  }
   
   p {
     border: 1px solid black;
