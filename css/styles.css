@@ -11,11 +11,11 @@
     position: absolute;
     top: 0px;
     right: 0px;
-    margin: 10px;
   }
 
-  section {
+  block {
     position: relative;
+    margin: 10px;
   }
   
   p {
